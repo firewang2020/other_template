@@ -86,6 +86,6 @@ gitalk:
   repo: other_tmplate    #仓库名称
   owner: firewang2020    #github用户名
   admin: firewang2020
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+  #distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 theme: jekyll-theme-leap-day
