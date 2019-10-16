@@ -5,13 +5,13 @@ type: major
 
 ChatApp introduces media support! Send images, videos and documents to your contacts.
 
-## Features:
+## Features
 
 * Image support
 * Video support
 * Document support
 
-## Fixes:
+## Fixes
 
 * Edge case contact syncing issue
 * All memory leaks obliterated
