@@ -1,5 +1,7 @@
 # Edition
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ae26b452bba54171a65afacf1cb2f889)](https://www.codacy.com/manual/firewang2020/other_template?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=firewang2020/other_template&amp;utm_campaign=Badge_Grade)
+
 Product documentation template for Jekyll. Browse through a [live demo](https://long-pig.cloudvent.net/).
 Start documenting your product, application, service or website with this configurable theme.
 
