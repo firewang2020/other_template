@@ -5,10 +5,10 @@ type: major
 
 This release introduces
 
-**Features:**
+# Features
 
 *
 
-**Fixes:**
+# Fixes
 
 *
