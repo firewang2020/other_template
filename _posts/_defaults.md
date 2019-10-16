@@ -1,5 +1,5 @@
 ---
-title:
+title:test_title
 type: major
 ---
 
